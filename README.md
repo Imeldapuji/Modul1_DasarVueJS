@@ -1,5 +1,6 @@
 # Modul1_DasarVueJS
 <h2>Dokumentasi Tugas Modul 1 Dasar Vue JS</h2>
+<h3>Imelda Puji Pangestu/XII RPL2/15</h3>
 <p>Tugas 1</p>
 <img src="/images/Latihan1.png" alt="Dokumentasi Latihan 1"/>
 <br>
