@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <title>Hello World</title>
+</head>
+<body>
+    <div id="app">
+     <p>
+        {{greet('Imelda Puji Pangestu')}}
+     </p>
+    </div>
+    <script>
+       
+        var app = new Vue({ //ini instance 
+            el: "#app",
+            methods: {
+                greet: function(name) { //ini nama method 
+                    return 'Good morning '  +  name;
+                }
+            }
+        })
+    </script>
+</body>
+</html>
