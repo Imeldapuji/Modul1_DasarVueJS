@@ -12,5 +12,5 @@
 <p>Tugas 3</p>
 <img src="/images/Latihan3.png" alt="Dokumentasi Latihan 3"/>
 <br>
-<p>Tugas 4</p>
-<img src="/images/Latihan4.png" alt="Dokumentasi Latihan 4"/>
+<p>Tugas 4.1</p>
+<img src="/images/Latihan4.1.png" alt="Dokumentasi Latihan 4.1"/>
