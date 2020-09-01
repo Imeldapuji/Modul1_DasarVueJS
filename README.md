@@ -14,3 +14,21 @@
 <br>
 <p>Tugas 4.1</p>
 <img src="/images/Latihan4.1.png" alt="Dokumentasi Latihan 4.1"/>
+<br>
+<p>Tugas 4.2</p>
+<img src="/images/Latihan4.2.png" alt="Dokumentasi Latihan 4.2"/>
+<br>
+<p>Tugas 4.3</p>
+<img src="/images/Latihan4.3.png" alt="Dokumentasi Latihan 4.3"/>
+<br>
+<p>Tugas 5</p>
+<img src="/images/Latihan5.png" alt="Dokumentasi Latihan 5"/>
+<br>
+<p>Tugas 6</p>
+<img src="/images/Latihan6.png" alt="Dokumentasi Latihan 6"/>
+<br>
+<p>Tugas 7</p>
+<img src="/images/Latihan7.png" alt="Dokumentasi Latihan 7"/>
+<br>
+<p>Tugas 7.1</p>
+<img src="/images/Latihan7.1.png" alt="Dokumentasi Latihan 7.1"/>
